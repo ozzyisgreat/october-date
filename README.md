@@ -9,3 +9,6 @@
 
 
 *as of writing this it is october 232* 
+
+
+*also i challenged myself to implement this in every language i could*
